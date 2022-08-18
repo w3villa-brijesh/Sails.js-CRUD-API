@@ -1,0 +1,14 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"name":"brijesh","createdAt":1660643292956,"updatedAt":1660643292956,"id":1,"_id":1}
+{"name":"Vinod","age":"24","createdAt":1660643494629,"updatedAt":1660643532450,"id":3,"_id":3}
+{"name":"Rahul","createdAt":1660643688998,"updatedAt":1660643688998,"id":4,"_id":4}
+{"name":"Amit","createdAt":1660647623172,"updatedAt":1660647623172,"id":5,"_id":5}
+{"name":"Amit","createdAt":1660648341061,"updatedAt":1660648341061,"id":6,"_id":6}
+{"name":"Amit","createdAt":1660648342201,"updatedAt":1660648342201,"id":7,"_id":7}
+{"name":"Amit","createdAt":1660648343276,"updatedAt":1660648343276,"id":8,"_id":8}
+{"name":"Amit","createdAt":1660648368210,"updatedAt":1660648368210,"id":9,"_id":9}
+{"name":"Amit","createdAt":1660648369407,"updatedAt":1660648369407,"id":10,"_id":10}
+{"name":"Amit","createdAt":1660648387149,"updatedAt":1660648387149,"id":11,"_id":11}
+{"name":"Amit","createdAt":1660648388515,"updatedAt":1660648388515,"id":12,"_id":12}
+{"name":"Amit","createdAt":1660648480711,"updatedAt":1660648480711,"id":13,"_id":13}
+{"name":"Amit","createdAt":1660648481822,"updatedAt":1660648481822,"id":14,"_id":14}
